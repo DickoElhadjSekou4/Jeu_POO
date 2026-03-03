@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.3)
+    io-console (0.6.0)
+    method_source (1.1.0)
+    pry (0.16.0)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+      reline (>= 0.6.0)
+    reline (0.6.3)
+      io-console (~> 0.5)
+
+PLATFORMS
+  x86_64-linux-gnu
+
+DEPENDENCIES
+  pry
+
+BUNDLED WITH
+  4.0.6
